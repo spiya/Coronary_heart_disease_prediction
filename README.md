@@ -4,9 +4,15 @@ The goal of this project was to develop a predictive model of coronary heart dis
 
 [Final report](https://github.com/spiya/Coronary_heart_disease_prediction/blob/main/Report_Final.pdf)
 
+This contains complete description on data wrangling, exploratory data analysis and machine learning.
+
 [Presentation](https://github.com/spiya/Coronary_heart_disease_prediction/blob/main/Presentation_final.pdf)
 
+This contains presentaion on the findings of this study.
+
 2. Notebook
+
+These notebooks contain the codes used in various steps of analysis.
 
 [Data wrangling](https://github.com/spiya/Coronary_heart_disease_prediction/blob/main/notebook/01_Data_wrangling.ipynb)
 
