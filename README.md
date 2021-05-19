@@ -2,11 +2,11 @@
 The goal of this project was to develop a predictive model of coronary heart disease using machine learning based on the demographic, comorbidity, vital sign and some laboratory investigation data
 1. Docs
 
-[Final report](https://github.com/spiya/Coronary_heart_disease_prediction/blob/main/Report_Final.pdf)
+[Final report](https://github.com/spiya/Coronary_heart_disease_prediction/blob/main/CHD_Report.pdf)
 
 This contains complete description on data wrangling, exploratory data analysis and machine learning.
 
-[Presentation](https://github.com/spiya/Coronary_heart_disease_prediction/blob/main/Presentation_final.pdf)
+[Presentation](https://github.com/spiya/Coronary_heart_disease_prediction/blob/main/CHD_Presentation.pdf)
 
 This contains presentation on the findings of this study.
 
